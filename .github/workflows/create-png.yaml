@@ -1,0 +1,20 @@
+on:
+  push
+
+name: create-png
+
+jobs:
+  slack-cron:
+    name: "Converting the SVG to a PNG"
+    runs-on: ubuntu-latest
+    container: docker://lmmdock/inkscape:latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
+      - name: Compiling SVGs
+        run: inkscape -e rainbow_BioC.png -d 300 -D rainbow_BioC.svg
+      - name: Uplaoding PNG
+        uses: actions/upload-artifact@v2
+        with:
+          name: PNG-final
+          path: rainbow_BioC.png 
