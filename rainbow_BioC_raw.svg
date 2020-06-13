@@ -540,7 +540,12 @@
        height="1.0506999"><feGaussianBlur
          inkscape:collect="always"
          stdDeviation="2.6554066"
-         id="feGaussianBlur1635" /></filter></defs><sodipodi:namedview
+         id="feGaussianBlur1635" /></filter><clipPath
+       id="clipPath1127"
+       clipPathUnits="userSpaceOnUse"><path
+         inkscape:connector-curvature="0"
+         id="path1125"
+         d="M 0,0 H 124.56 V 146 H 0 Z" /></clipPath></defs><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -553,9 +558,9 @@
      inkscape:window-height="1010"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="3.4289835"
-     inkscape:cx="132.3025"
-     inkscape:cy="44.437511"
+     inkscape:zoom="1.7144918"
+     inkscape:cx="128.07155"
+     inkscape:cy="128.93965"
      inkscape:window-x="67"
      inkscape:window-y="34"
      inkscape:window-maximized="0"
@@ -1039,4 +1044,29 @@
      d="m 0,0 v 68.945 l 59.858,34.477 59.858,-34.477 V 0 L 59.858,-34.478 Z"
      style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
      id="path14-4"
-     inkscape:connector-curvature="0" /></g></g></svg>
+     inkscape:connector-curvature="0" /></g><g
+   inkscape:label="Bioconductor"
+   id="g1111"
+   transform="translate(223.53357,-56.456814)"><text
+     y="-136.44231"
+     x="-106.76559"
+     id="text1227-3"
+     style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.00000095px;font-family:'Aller Light';-inkscape-font-specification:Aller-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+     transform="matrix(0.86677474,0.49869987,0.49869987,-0.86677474,0,0)"><tspan
+       style="stroke-width:0.99999994"
+       id="tspan1225-6"
+       sodipodi:role="line"
+       y="-136.44231"
+       x="-106.76559 -103.9936 -101.2216 -98.569595 -97.985596 -95.861595 -95.0056 -92.945595 -91.325592 -89.265594 -87.213593 -85.109596 -83.045593 -81.361595 -80.241592 -78.181595 -77.297592 -76.713593 -74.653587 -73.533592">www.bioconductor.org</tspan></text>
+</g><text
+   y="541.7066"
+   x="39.35186"
+   id="text1227"
+   style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.00000095px;font-family:'Aller Light';-inkscape-font-specification:Aller-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+   transform="matrix(0.86677474,0.49869987,0.49869987,-0.86677474,0,0)"><tspan
+     style="stroke-width:0.99999994"
+     id="tspan1225"
+     sodipodi:role="line"
+     y="541.7066"
+     x="39.35186 42.123859 44.895863 47.547863 48.131863 50.255863 51.111866 53.171864 54.791866 56.851864 58.903866 61.00787 63.071865 64.755867 65.875862 67.935867 68.819862 69.40387 71.463867 72.58387">www.bioconductor.org</tspan></text>
+</g></svg>

@@ -16,10 +16,7 @@
    height="194.66667"
    viewBox="0 0 166.08 194.66667"
    sodipodi:docname="rainbow_BioC.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   inkscape:export-filename="/home/luna/Documents/fun/BiocStickers/rainbow_BioC.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300"><metadata
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
@@ -543,7 +540,12 @@
        height="1.0506999"><feGaussianBlur
          inkscape:collect="always"
          stdDeviation="2.6554066"
-         id="feGaussianBlur1635" /></filter></defs><sodipodi:namedview
+         id="feGaussianBlur1635" /></filter><clipPath
+       id="clipPath1127"
+       clipPathUnits="userSpaceOnUse"><path
+         inkscape:connector-curvature="0"
+         id="path1125"
+         d="M 0,0 H 124.56 V 146 H 0 Z" /></clipPath></defs><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -556,9 +558,9 @@
      inkscape:window-height="1010"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.85724588"
-     inkscape:cx="169.50606"
-     inkscape:cy="448.96694"
+     inkscape:zoom="0.30308219"
+     inkscape:cx="535.27176"
+     inkscape:cy="441.41093"
      inkscape:window-x="67"
      inkscape:window-y="34"
      inkscape:window-maximized="0"
@@ -695,4 +697,20 @@
      transform="matrix(0.86923286,-0.49440291,-0.49440291,-0.86923286,0,0)"
      ry="0"
      inkscape:transform-center-x="5.5825586"
-     inkscape:transform-center-y="10.467313" /></g></g></svg>
+     inkscape:transform-center-y="10.467313" /></g><g
+   inkscape:label="Bioconductor"
+   id="g1111"
+   transform="translate(223.53357,-56.456814)"><text
+   y="-136.44231"
+   x="-106.76559"
+   id="text1227-3"
+   style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.00000095px;font-family:'Aller Light';-inkscape-font-specification:Aller-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+   transform="matrix(0.86677474,0.49869987,0.49869987,-0.86677474,0,0)"><tspan
+     style="stroke-width:0.99999994"
+     id="tspan1225-6"
+     sodipodi:role="line"
+     y="-136.44231"
+     x="-106.76559 -103.9936 -101.2216 -98.569595 -97.985596 -95.861595 -95.0056 -92.945595 -91.325592 -89.265594 -87.213593 -85.109596 -83.045593 -81.361595 -80.241592 -78.181595 -77.297592 -76.713593 -74.653587 -73.533592">www.bioconductor.org</tspan></text>
+
+</g>
+</g></svg>
